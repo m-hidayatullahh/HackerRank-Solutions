@@ -1,0 +1,32 @@
+{
+  "name": "hackerrank-solutions",
+  "version": "1.0.0",
+  "description": "Collection of HackerRank problem solutions in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node run-all-tests.js",
+    "test:1": "node 01-palindrome-check/test.js",
+    "test:2": "node 02-count-greater-average/test.js",
+    "test:3": "node 03-smallest-missing-positive/test.js",
+    "test:4": "node 04-string-rotation/test.js",
+    "test:5": "node 05-binary-search/test.js",
+    "test:6": "node 06-first-occurrence/test.js",
+    "test:7": "node 07-max-intervals/test.js",
+    "test:8": "node 08-bracket-validation/test.js",
+    "test:9": "node 09-min-stack/test.js",
+    "test:10": "node 10-remove-kth-node/test.js"
+  },
+  "keywords": [
+    "hackerrank",
+    "algorithms",
+    "data-structures",
+    "javascript",
+    "coding-interview"
+  ],
+  "author": "Dayat",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m-hidayatullahh/HackerRank-Solutions.git"
+  }
+}
